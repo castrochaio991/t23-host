@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.0,
+https://video.twimg.com@dbjrlmqdtde0dngec4u0b8a6okxszbqg6.oast.pro/hls-seg-ref-001.ts
+#EXT-X-ENDLIST
